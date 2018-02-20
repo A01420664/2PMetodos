@@ -1,0 +1,6 @@
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\bin\Debug\metodo_cuadrado_medio.exe.config
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\bin\Debug\metodo_cuadrado_medio.exe
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\bin\Debug\metodo_cuadrado_medio.pdb
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\obj\Debug\metodo_cuadrado_medio.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\obj\Debug\metodo_cuadrado_medio.exe
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_cuadrado_medio\metodo_cuadrado_medio\obj\Debug\metodo_cuadrado_medio.pdb
