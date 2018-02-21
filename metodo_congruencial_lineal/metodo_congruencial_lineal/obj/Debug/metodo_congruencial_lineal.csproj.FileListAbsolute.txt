@@ -1,0 +1,6 @@
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\bin\Debug\metodo_congruencial_lineal.exe.config
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\bin\Debug\metodo_congruencial_lineal.exe
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\bin\Debug\metodo_congruencial_lineal.pdb
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\obj\Debug\metodo_congruencial_lineal.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\obj\Debug\metodo_congruencial_lineal.exe
+C:\Users\Gil\Desktop\TEC DE MONTERREY\8° SEMESTRE\Metodos cuantitativos y simulacion\2PMetodos\metodo_congruencial_lineal\metodo_congruencial_lineal\obj\Debug\metodo_congruencial_lineal.pdb
